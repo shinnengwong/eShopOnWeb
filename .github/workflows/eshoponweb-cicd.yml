@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: az2006-rg
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 41c73a51-4c9a-4bf5-9ad4-3cd81f0868f0
-  WEBAPP-NAME: az2006app50768998
+  SUBSCRIPTION-ID: ccbc5638-ec47-427d-a1fb-1cebe35bb541
+  WEBAPP-NAME: az2006app50770290
 
 
 jobs:
